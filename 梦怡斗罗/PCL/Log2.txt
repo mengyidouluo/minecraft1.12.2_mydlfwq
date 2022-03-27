@@ -1,0 +1,54 @@
+[14:29:17.892] [Start] 程序版本：Beta 1.4.14（191）
+[14:29:17.942] [Start] 识别码：FF19-9B00-FB16-DC2F
+[14:29:17.982] [Start] 第一阶段加载用时：172 ms
+[14:29:18.662] [UI] 刷新主题：0
+[14:29:18.762] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[14:29:18.762] [Start] 第二阶段加载用时：624 ms
+[14:29:18.802] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[14:29:19.512] [UI] 加载背景图片：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Pictures\46.png
+[14:29:19.532] [Start] 加载 DLL：NAudio
+[14:29:19.612] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[14:29:19.612] [Start] 加载 DLL：NAudio.Flac
+[14:29:19.752] [Start] 第三阶段加载用时：249 ms
+[14:29:19.752] [Start] 加载 DLL：Json
+[14:29:19.762] [Launch] Minecraft 文件夹：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\
+[14:29:19.762] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk1.8.0_131\bin\java.exe -version
+[14:29:20.146] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[14:29:20.156] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[14:29:20.176] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[14:29:20.176] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[14:29:20.256] [Skin] 载入头像成功：Loader Skin Legacy
+[14:29:20.256] [Skin] 载入头像成功：Loader Skin Legacy
+[14:29:20.286] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[14:29:20.306] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[14:29:20.306] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[14:29:20.306] [Server] 正在连接到 PCL2 服务器
+[14:29:20.336] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1648276160-618d2af9-0-9d2b9846c370a96a350e3faf1a6fb710，最大超时 10000
+[14:29:20.586] [Minecraft] Java 路径：C:\Program Files\Java\jdk1.8.0_131\bin\
+[14:29:20.756] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\
+[14:29:20.766] [Loader] 加载器 登录 状态改变：Loading
+[14:29:20.766] [Launch] 登录线程已启动
+[14:29:20.766] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[14:29:20.766] [Launch] 登录方式：离线（want）
+[14:29:20.766] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[14:29:20.776] [Server] 服务器公告编号：68，无需更新
+[14:29:20.776] [Loader] 加载器 登录 状态改变：Finished
+[14:29:20.786] [Server] 显示公告 999：你所使用的 PCL2 版本过老，将在不久后禁止继续使用，请尽快更新！
+新版有联机功能了，Forge、Fabric 也能正常装了，还能下 Mod 和整合包……
+并且新版能自动更新了，所以这是最后一次手动更新了！最！后！一！次！
+你只需要下载最新版，然后替换掉 PCL2 这一个文件就行！
+[14:29:20.836] [Control] 普通弹窗：旧版本 PCL2 即将被弃用
+你所使用的 PCL2 版本过老，将在不久后禁止继续使用，请尽快更新！
+新版有联机功能了，Forge、Fabric 也能正常装了，还能下 Mod 和整合包……
+并且新版能自动更新了，所以这是最后一次手动更新了！最！后！一！次！
+你只需要下载最新版，然后替换掉 PCL2 这一个文件就行！
+[14:29:21.126] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[14:29:29.136] [Control] 按下按钮：暂不更新
+[14:29:29.146] [Control] 普通弹框返回：2
+[14:29:29.146] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[14:33:01.373] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[14:36:42.887] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[14:40:24.373] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[14:42:39.765] [Control] 按下图标按钮：BtnTitleClose
+[14:42:39.765] [System] 收到关闭指令
+[14:42:40.075] [System] 程序已退出，返回值：Success

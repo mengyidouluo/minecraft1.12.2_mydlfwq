@@ -1,0 +1,175 @@
+[10:08:41.334] [Start] 程序版本：Beta 1.4.14（191）
+[10:08:41.389] [Start] 识别码：FF19-9B00-FB16-DC2F
+[10:08:41.429] [Start] 第一阶段加载用时：187 ms
+[10:08:42.074] [UI] 刷新主题：0
+[10:08:42.195] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[10:08:42.196] [Start] 第二阶段加载用时：624 ms
+[10:08:42.238] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[10:08:42.902] [UI] 加载背景图片：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Pictures\11.png
+[10:08:42.991] [Start] 加载 DLL：NAudio
+[10:08:43.052] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:08:43.062] [Start] 加载 DLL：NAudio.Flac
+[10:08:43.222] [Start] 第三阶段加载用时：343 ms
+[10:08:43.226] [Start] 加载 DLL：Json
+[10:08:43.242] [Launch] Minecraft 文件夹：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\
+[10:08:43.246] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk1.8.0_131\bin\java.exe -version
+[10:08:43.637] [Minecraft] Java 路径：C:\Program Files\Java\jdk1.8.0_131\bin\
+[10:08:43.715] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[10:08:43.715] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[10:08:43.735] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[10:08:43.735] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[10:08:43.735] [Server] 正在连接到 PCL2 服务器
+[10:08:43.745] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[10:08:43.745] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[10:08:43.745] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[10:08:43.775] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1648346924-6369f6c7-0-fd714ac6e6ce4c0fb131f549d7113bf5，最大超时 10000
+[10:08:43.855] [Skin] 载入头像成功：Loader Skin Legacy
+[10:08:43.855] [Skin] 载入头像成功：Loader Skin Legacy
+[10:08:43.865] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\
+[10:08:43.865] [Loader] 加载器 登录 状态改变：Loading
+[10:08:43.875] [Launch] 登录线程已启动
+[10:08:43.875] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[10:08:43.875] [Launch] 登录方式：离线（want）
+[10:08:43.875] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[10:08:43.885] [Loader] 加载器 登录 状态改变：Finished
+[10:08:45.530] [Server] 服务器公告编号：68，无需更新
+[10:08:45.540] [Server] 显示公告 999：你所使用的 PCL2 版本过老，将在不久后禁止继续使用，请尽快更新！
+新版有联机功能了，Forge、Fabric 也能正常装了，还能下 Mod 和整合包……
+并且新版能自动更新了，所以这是最后一次手动更新了！最！后！一！次！
+你只需要下载最新版，然后替换掉 PCL2 这一个文件就行！
+[10:08:45.580] [Control] 普通弹窗：旧版本 PCL2 即将被弃用
+你所使用的 PCL2 版本过老，将在不久后禁止继续使用，请尽快更新！
+新版有联机功能了，Forge、Fabric 也能正常装了，还能下 Mod 和整合包……
+并且新版能自动更新了，所以这是最后一次手动更新了！最！后！一！次！
+你只需要下载最新版，然后替换掉 PCL2 这一个文件就行！
+[10:08:45.961] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[10:08:47.635] [Control] 按下按钮：暂不更新
+[10:08:47.636] [Control] 普通弹框返回：2
+[10:08:47.637] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[10:08:51.434] [Control] 按下按钮：启动游戏
+[10:08:51.435] [Loader] 加载器 Loader Launch 状态改变：Loading
+[10:08:51.480] [Launch] 预检测已通过
+[10:08:51.480] [Loader] 加载器 登录 状态改变：Waiting
+[10:08:51.483] [Download] 开始后台更新资源文件索引
+[10:08:51.484] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[10:08:51.486] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[10:08:51.487] [Download] 版本 梦怡斗罗 对应的资源文件索引为 1.12
+[10:08:51.490] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[10:08:51.490] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[10:08:51.491] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[10:08:51.491] [Loader] 加载器 Java 处理 状态改变：Loading
+[10:08:51.493] [Loader] 加载器 Java 验证 状态改变：Loading
+[10:08:51.495] [Loader] 加载器 Java 验证 状态改变：Finished
+[10:08:51.496] [Loader] 加载器 Java 处理 状态改变：Finished
+[10:08:51.498] [Loader] 加载器 登录 状态改变：Loading
+[10:08:51.499] [Loader] 加载器 补全文件 状态改变：Loading
+[10:08:51.499] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[10:08:51.499] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[10:08:51.500] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[10:08:51.500] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[10:08:51.501] [Download] 版本 梦怡斗罗 对应的资源文件索引为 1.12
+[10:08:51.531] [Launch] 登录线程已启动
+[10:08:51.532] [Loader] 加载器 登录 状态改变：Finished
+[10:08:51.586] [Minecraft] 获取支持库列表：梦怡斗罗
+[10:08:51.606] [Launch] 可能存在分段问题的支持库：org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209
+[10:08:51.606] [Launch] 可能存在分段问题的支持库：org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209
+[10:08:51.607] [Launch] 已将 optifine:OptiFine:1.12.2_HD_U_F5:installer 特判替换为对应的 Installer 文件
+[10:08:51.607] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[10:08:51.607] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[10:08:51.608] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[10:08:51.608] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[10:08:51.631] [Download] 1.12.json 103#：开始，起始点 0，https://download.mcbbs.net/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json
+[10:08:51.837] [Download] 1.12.json：文件大小 143138 B（140 K）
+[10:08:52.113] [Download] 1.12.json：已完成，剩余文件 0
+[10:08:52.113] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[10:08:52.114] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[10:08:52.121] [Launch] 后台更新资源文件索引成功：C:\Users\HEDYN\AppData\Local\Temp\PCL\Cache\1.12.json
+[10:08:52.121] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[10:08:52.121] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[10:08:52.249] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[10:08:52.250] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[10:08:52.250] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[10:08:52.250] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[10:08:52.837] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[10:08:52.837] [Loader] 加载器 下载资源文件 状态改变：Loading
+[10:08:52.837] [Loader] 加载器 下载资源文件 状态改变：Finished
+[10:08:52.837] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[10:08:52.837] [Loader] 加载器 补全文件 状态改变：Finished
+[10:08:52.838] [Loader] 加载器 提供参数中的服务器 IP 状态改变：Loading
+[10:08:52.838] [Loader] 加载器 提供参数中的服务器 IP 状态改变：Finished
+[10:08:52.838] [Loader] 加载器 获取启动参数 状态改变：Loading
+[10:08:52.840] [Launch] 开始获取 Minecraft 启动参数
+[10:08:52.840] [Launch] 获取旧版 JVM 参数
+[10:08:52.848] [Launch] 旧版 JVM 参数获取成功：
+[10:08:52.848] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx2662m "-Djava.library.path=C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\梦怡斗罗-natives" -cp ${classpath} net.minecraft.launchwrapper.Launch
+[10:08:52.848] [Launch] 获取旧版 Game 参数
+[10:08:52.848] [Launch] 旧版 Game 参数获取成功
+[10:08:52.848] [Launch] 获取新版 Game 参数
+[10:08:52.850] [Launch] 新版 Game 参数获取成功
+[10:08:52.851] [Minecraft] 获取支持库列表：梦怡斗罗
+[10:08:52.852] [Launch] 可能存在分段问题的支持库：org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209
+[10:08:52.852] [Launch] 可能存在分段问题的支持库：org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209
+[10:08:52.852] [Launch] 已将 optifine:OptiFine:1.12.2_HD_U_F5:installer 特判替换为对应的 Installer 文件
+[10:08:52.859] [Launch] Minecraft 启动参数：
+[10:08:52.859] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmn256m -Xmx2662m "-Djava.library.path=C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\梦怡斗罗-natives" -cp "C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2855\forge-1.12.2-14.23.5.2855.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_F5\OptiFine-1.12.2_HD_U_F5-installer.jar;C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\梦怡斗罗.jar" net.minecraft.launchwrapper.Launch --username want --version 梦怡斗罗 --gameDir "C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft" --assetsDir "C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\assets" --assetIndex 1.12 --uuid 0000000000000004A98F50********06 --accessToken 0000000000000004A98F50********06 --userType Legacy --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --height 480 --width 854 --tweakClass optifine.OptiFineForgeTweaker --tweakClass optifine.OptiFineForgeTweaker --tweakClass optifine.OptiFineForgeTweaker 
+[10:08:52.859] [Loader] 加载器 获取启动参数 状态改变：Finished
+[10:08:52.860] [Loader] 加载器 解压文件 状态改变：Loading
+[10:08:52.896] [Launch] 正在解压 Natives 文件
+[10:08:52.921] [Loader] 加载器 解压文件 状态改变：Finished
+[10:08:52.922] [Loader] 加载器 预启动处理 状态改变：Loading
+[10:08:52.938] [Launch] 并非首次启动，不修改语言
+[10:08:52.940] [Loader] 加载器 预启动处理 状态改变：Finished
+[10:08:52.941] [Loader] 加载器 启动进程 状态改变：Loading
+[10:08:52.997] [Launch] 已启动游戏进程
+[10:08:53.003] [Loader] 加载器 启动进程 状态改变：Finished
+[10:08:53.004] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[10:08:53.007] [Launch] 
+[10:08:53.007] [Launch] ~ 基础参数 ~
+[10:08:53.007] [Launch] PCL2 版本：Beta 1.4.14 (191)
+[10:08:53.007] [Launch] 游戏版本：1.12, Forge 14.23.5.2855, OptiFine F5（12）
+[10:08:53.007] [Launch] 资源版本：1.12
+[10:08:53.007] [Launch] 版本继承：无
+[10:08:53.008] [Launch] 分配的内存：2.6 GB（2662 MB）
+[10:08:53.008] [Launch] MC 文件夹：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\
+[10:08:53.008] [Launch] 版本文件夹：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\
+[10:08:53.008] [Launch] 版本隔离：False
+[10:08:53.008] [Launch] HMCL 格式：False
+[10:08:53.009] [Launch] Java 信息：JDK 8 (1.8.0.131)，64 位：C:\Program Files\Java\jdk1.8.0_131\bin\
+[10:08:53.009] [Launch] 环境变量：已设置
+[10:08:53.009] [Launch] 
+[10:08:53.009] [Launch] ~ 登录参数 ~
+[10:08:53.009] [Launch] 玩家用户名：want
+[10:08:53.009] [Launch] AccessToken：0000000000000004A98F50********06
+[10:08:53.009] [Launch] ClientToken：0000000000000004A98F501A96EFCD06
+[10:08:53.009] [Launch] UUID：0000000000000004A98F501A96EFCD06
+[10:08:53.009] [Launch] 登录方式：Legacy
+[10:08:53.009] [Launch] 
+[10:08:53.012] [Launch] [全局] 出现运行中的 Minecraft
+[10:08:53.012] [Launch] [7472] 开始 Minecraft 日志监控
+[10:08:54.998] [Launch] [7472] 日志 1/5：已出现日志输出
+[10:08:56.621] [Report] FPS 0, 动画 8, 下载中 0
+[10:09:04.425] [Launch] [7472] 日志 2/5：游戏用户已设置
+[10:09:07.810] [Report] FPS 0, 动画 7, 下载中 0
+[10:09:12.107] [Launch] [7472] 日志 3/5：LWJGL 版本已确认
+[10:09:12.310] [Launch] [7472] Minecraft 窗口已加载：330856
+[10:09:14.310] [Launch] [7472] Minecraft 加载已完成
+[10:09:14.377] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[10:09:14.398] [Loader] 加载器 结束处理 状态改变：Loading
+[10:09:14.425] [Launch] 开始启动结束处理
+[10:09:14.428] [Launch] 启动器可见性：5
+[10:09:14.429] [Loader] 加载器 结束处理 状态改变：Finished
+[10:09:14.433] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[10:09:14.509] [Loader] 加载器 Loader Launch 状态改变：Finished
+[10:09:14.516] [UI] 弹出提示：梦怡斗罗 启动成功！
+[10:09:28.005] [Launch] [7472] 日志 4/5：OpenAL 已加载
+[10:09:33.802] [Launch] [7472] 日志 5/5：材质已加载
+[10:12:25.525] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:16:07.272] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:19:48.773] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:23:30.319] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:27:11.877] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:30:53.396] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:34:34.962] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:38:16.513] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[10:38:23.311] [System] 收到关闭指令
+[10:38:23.788] [System] 程序已退出，返回值：Success

@@ -1,0 +1,60 @@
+[18:17:28.182] [Start] 程序版本：Beta 1.4.14（191）
+[18:17:28.221] [Start] 识别码：FF19-9B00-FB16-DC2F
+[18:17:28.258] [Start] 第一阶段加载用时：172 ms
+[18:17:28.856] [UI] 刷新主题：0
+[18:17:28.976] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:17:28.976] [Start] 第二阶段加载用时：608 ms
+[18:17:29.021] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:17:29.677] [UI] 加载背景图片：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Pictures\11.png
+[18:17:29.756] [Start] 加载 DLL：NAudio
+[18:17:29.807] [Music] 播放开始：C:\Users\HEDYN\Desktop\梦怡斗罗\PCL\Musics\吴亦凡 - 大碗宽面.flac
+[18:17:29.810] [Start] 加载 DLL：NAudio.Flac
+[18:17:29.943] [Start] 第三阶段加载用时：281 ms
+[18:17:29.945] [Start] 加载 DLL：Json
+[18:17:29.958] [Launch] Minecraft 文件夹：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\
+[18:17:29.962] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jdk1.8.0_131\bin\java.exe -version
+[18:17:30.416] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:17:30.422] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:17:30.428] [Minecraft] Java 路径：C:\Program Files\Java\jdk1.8.0_131\bin\
+[18:17:30.430] [Launch] Minecraft 版本无效：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\吴亦凡邀请你进入游戏\
+[18:17:30.441] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:17:30.442] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:17:30.447] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[18:17:30.455] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[18:17:30.457] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[18:17:30.457] [Server] 正在连接到 PCL2 服务器
+[18:17:30.462] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[18:17:30.488] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1648203450-710efd09-0-efcb76ab02166b1c51c6687496245f67，最大超时 10000
+[18:17:30.532] [Skin] 载入头像成功：Loader Skin Legacy
+[18:17:30.536] [Skin] 载入头像成功：Loader Skin Legacy
+[18:17:30.637] [Minecraft] 版本 电音乐团 的错误状态已变更，新的状态为：该文件夹不存在
+[18:17:30.637] [Minecraft] 文件夹列表变更，重载所有版本
+[18:17:30.851] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[18:17:30.855] [Launch] 自动选择 Minecraft 版本：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\
+[18:17:30.856] [Setup] 当前选择的 Minecraft 版本：梦怡斗罗
+[18:17:30.858] [Launch] 自动选择 Minecraft 版本：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\
+[18:17:30.861] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[18:17:30.861] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\HEDYN\Desktop\梦怡斗罗\.minecraft\versions\梦怡斗罗\
+[18:17:30.866] [Loader] 加载器 登录 状态改变：Loading
+[18:17:30.869] [Launch] 登录线程已启动
+[18:17:30.869] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[18:17:30.871] [Launch] 登录方式：离线（want）
+[18:17:30.872] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[18:17:30.880] [Loader] 加载器 登录 状态改变：Finished
+[18:17:30.942] [Server] 服务器公告编号：68，无需更新
+[18:17:30.952] [Server] 显示公告 999：你所使用的 PCL2 版本过老，将在不久后禁止继续使用，请尽快更新！
+新版有联机功能了，Forge、Fabric 也能正常装了，还能下 Mod 和整合包……
+并且新版能自动更新了，所以这是最后一次手动更新了！最！后！一！次！
+你只需要下载最新版，然后替换掉 PCL2 这一个文件就行！
+[18:17:31.008] [Control] 普通弹窗：旧版本 PCL2 即将被弃用
+你所使用的 PCL2 版本过老，将在不久后禁止继续使用，请尽快更新！
+新版有联机功能了，Forge、Fabric 也能正常装了，还能下 Mod 和整合包……
+并且新版能自动更新了，所以这是最后一次手动更新了！最！后！一！次！
+你只需要下载最新版，然后替换掉 PCL2 这一个文件就行！
+[18:17:31.308] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[18:17:32.473] [Control] 按下按钮：暂不更新
+[18:17:32.476] [Control] 普通弹框返回：2
+[18:17:32.477] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[18:17:34.746] [Control] 按下图标按钮：BtnTitleClose
+[18:17:34.749] [System] 收到关闭指令
+[18:17:35.057] [System] 程序已退出，返回值：Success
