@@ -1,1 +1,1 @@
-# minecraft1.12.2_mydlfwq
+#启动器下载，java请自行
